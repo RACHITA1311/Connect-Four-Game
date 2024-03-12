@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "web-connect-four-game-main",
+			"path": "."
+		},
+		{
+			"name": "connect-four-game",
+			"path": "../../../../Documents/GitHub/connect-four-game"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "connect-four-game"
+	}
+}
